@@ -1,5 +1,5 @@
 # Usar Ubuntu 24.01 como base
-FROM ubuntu:24.01
+FROM ubuntu:20.04
 
 # Ejecutar comandos como root
 USER root
